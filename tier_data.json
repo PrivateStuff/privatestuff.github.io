@@ -1,0 +1,114 @@
+[
+  {
+    "name": "SUPERGIRL",
+    "summary": "Sub-Boss Dark Supergirl has increased Attack and will power drain you on successful Specials. She is also immune to Power Drain, Stun and Freeze.",
+    "abilities": {
+      "STRENGTHENED": "Opponents have a modified Attack value.",
+      "INSULATED": "Opponents do not lose power when under the influence of a Power Drain effect.",
+      "HARMONIOUS": "Opponents cannot be stunned or frozen.",
+      "FATIGUE": "Opponent's abilities also cause Power Drain."
+    },
+    "teams": [
+      "ANY EXCEPT HBHQ"
+    ],
+    "artifacts": [
+      "ANY"
+    ],
+    "avoid": [
+      "HBHQ"
+    ],
+    "notes": ""
+  },
+  {
+    "name": "THE JOKER",
+    "summary": "Sub-Boss Lord Joker haas increased Lethal Attack Chance and deals splash damage to your entire team. Be careful, he's also placed dangerous Hazards in the environment for you to contend with!",
+    "abilities": {
+      "DEADLY": "Opponents have increased Lethal Attack Chance.",
+      "OVERKILL": "Opponent Abilities or Basic Attacks may also damage tagged out teammates",
+      "CONTAMINATION": "Opponent has set permanent Hazards"
+    },
+    "teams": [
+      "KOAAM",
+      "BN",
+      "HBHQ"
+    ],
+    "artifacts": [
+      "ANY"
+    ],
+    "avoid": [
+      "MV",
+      "JL",
+      "BM"
+    ],
+    "notes": ""
+  },
+  {
+    "name": "SOME BOSS",
+    "summary": "blah blah nrs bs blah",
+    "abilities": {
+      "ability 1": "Lorem ipsum dolor sit amet",
+      "ability 2": "consectetur adipiscing elit",
+      "ability 3": "sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+    },
+    "teams": [
+      "alpha",
+      "beta",
+      "gamma"
+    ],
+    "artifacts": [
+      "delta"
+    ],
+    "avoid": [
+      "sigma",
+      "epsilon",
+      "omicron"
+    ],
+    "notes": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  },
+  {
+    "name": "SOME BOSS",
+    "summary": "blah blah nrs bs blah",
+    "abilities": {
+      "ability 1": "Lorem ipsum dolor sit amet",
+      "ability 2": "consectetur adipiscing elit",
+      "ability 3": "sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+    },
+    "teams": [
+      "alpha",
+      "beta",
+      "gamma"
+    ],
+    "artifacts": [
+      "delta"
+    ],
+    "avoid": [
+      "sigma",
+      "epsilon",
+      "omicron"
+    ],
+    "notes": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  },
+  {
+    "name": "SOME BOSS",
+    "summary": "blah blah nrs bs blah",
+    "abilities": {
+      "ability 1": "Lorem ipsum dolor sit amet",
+      "ability 2": "consectetur adipiscing elit",
+      "ability 3": "sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+    },
+    "teams": [
+      "alpha",
+      "beta",
+      "gamma"
+    ],
+    "artifacts": [
+      "delta"
+    ],
+    "avoid": [
+      "sigma",
+      "epsilon",
+      "omicron"
+    ],
+    "notes": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  }
+]

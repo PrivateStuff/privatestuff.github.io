@@ -1,0 +1,115 @@
+@font-face {
+  font-family: calibri-light;
+  src: url(./fonts/calibril.ttf);
+}
+
+@font-face {
+  font-family: trsc;
+  src: url(./fonts/Times-RomanSC.otf);
+}
+
+body {
+	font-family: calibri-light;
+	color: white;
+}
+
+#fileInputs{
+	margin: auto;
+	z-index: 1;
+}
+
+#fileInputs p{
+	padding: 0;
+	margin: 0;
+}
+
+input[type=file]{
+  border: none;
+  color: black;
+  text-decoration: none;
+}
+
+#bosses {
+	position: relative;
+	margin: auto;
+	z-index: -1;
+	width: 1004px;
+}
+
+#banner {
+	width: 1024px;
+	margin: auto;
+	padding: 0;
+	margin-bottom: -5px;
+}
+
+#banner img {
+	width: 100%;
+}
+
+.boss {
+	margin: auto;
+	width: 984px;
+	background-color: #11161d;
+	padding: 10px 10px 20px 10px;
+	height:  100%;
+	overflow: auto;
+	margin-top: 10px;
+}
+
+h1,h2,h3 {
+	font-weight: bold;
+	margin: 0;
+}
+
+.left, .right{
+	float: left;
+	width: 47%;
+	padding: 0px 10px 0px 10px;
+}
+
+.summary {
+	margin-top: 0;
+
+}
+
+.abilities {
+	padding: 10px 0px 0 20px;
+}
+
+p {
+	margin: -5px 0 5px 0;
+	color: #9b9b9b;
+	text-indent: 10px;
+}
+
+#watermark {
+	position:absolute;
+	left:0px;
+	right:0px;
+	top:0;
+	bottom: 0;
+	overflow:hidden;
+	padding: 10px;
+	opacity: 0.1;
+}
+
+#watermark-text{
+	position:absolute;
+	top:-600px;
+	left:-200px;
+	pointer-events:none;
+	-webkit-transform:rotate(-30deg);
+}
+
+#watermark p{
+	color: #d5d8de;
+	font-size:80px;
+	letter-spacing:2px;
+	word-spacing: 5px;
+	line-height:300px;
+	white-space: nowrap;
+	font-family:trsc;
+}
+
+

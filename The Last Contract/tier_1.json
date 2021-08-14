@@ -54,7 +54,7 @@
     "notes": ""
   },
   {
-    "name": "BOSS CHEETAH",
+    "name": "CHEETAH",
     "summary": "Sub-Boss Cheetah deals increased damage over time and applies DoT on her Specials.",
     "abilities": {
       "POISON": "Opponents deal increased damage over time.",

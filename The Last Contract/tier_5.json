@@ -1,0 +1,92 @@
+[
+  {
+    "name": "KNIGHTMARE BATMAN",
+    "summary": "Sub-Boss Knightmare Batman...",
+    "abilities": {
+      "XX": "abcdefg",
+      "XX": "abcdefg"
+    },
+    "teams": [
+      "XX"
+    ],
+    "artifacts": [
+      "XX"
+    ],
+    "avoid": [
+      "XX"
+    ],
+    "notes": "xx"
+  },
+  {
+    "name": "JUSTICE LEAGUE CYBORG",
+    "summary": "Sub-Boss Justice League Cyborg...",
+    "abilities": {
+      "XX": "abcdefg",
+      "XX": "abcdefg"
+    },
+    "teams": [
+      "XX"
+    ],
+    "artifacts": [
+      "XX"
+    ],
+    "avoid": [
+      "XX"
+    ],
+    "notes": "xx"
+  },
+  {
+    "name": "JUSTICE LEAGUE FLASH",
+    "summary": "Sub-Boss Justice League Flash...",
+    "abilities": {
+      "XX": "abcdefg",
+      "XX": "abcdefg"
+    },
+    "teams": [
+      "XX"
+    ],
+    "artifacts": [
+      "XX"
+    ],
+    "avoid": [
+      "XX"
+    ],
+    "notes": "xx"
+  },
+  {
+    "name": "JOKER",
+    "summary": "Sub-Boss Joker...",
+    "abilities": {
+      "XX": "abcdefg",
+      "XX": "abcdefg"
+    },
+    "teams": [
+      "XX"
+    ],
+    "artifacts": [
+      "XX"
+    ],
+    "avoid": [
+      "XX"
+    ],
+    "notes": "xx"
+  },
+  {
+    "name": "DEATHSTROKE",
+    "summary": "Boss Deathstroke...",
+    "abilities": {
+      "XX": "abcdefg",
+      "XX": "abcdefg"
+    },
+    "teams": [
+      "XX"
+    ],
+    "artifacts": [
+      "XX"
+    ],
+    "avoid": [
+      "XX"
+    ],
+    "notes": "xx"
+  }
+]

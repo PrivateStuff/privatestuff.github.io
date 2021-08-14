@@ -1,0 +1,92 @@
+[
+  {
+    "name": "HEARTBREAKER HARLEY QUINN",
+    "summary": "Sub-Boss Heartbreaker Harley Quinn...",
+    "abilities": {
+      "XX": "abcdefg",
+      "XX": "abcdefg"
+    },
+    "teams": [
+      "XX"
+    ],
+    "artifacts": [
+      "XX"
+    ],
+    "avoid": [
+      "XX"
+    ],
+    "notes": "xx"
+  },
+  {
+    "name": "ENTANGLING POISON IVY",
+    "summary": "Sub-Boss Entangling Poison Ivy...",
+    "abilities": {
+      "XX": "abcdefg",
+      "XX": "abcdefg"
+    },
+    "teams": [
+      "XX"
+    ],
+    "artifacts": [
+      "XX"
+    ],
+    "avoid": [
+      "XX"
+    ],
+    "notes": "xx"
+  },
+  {
+    "name": "HORRIFIC SCARECROW",
+    "summary": "Sub-Boss Horrific Scarecrow...",
+    "abilities": {
+      "XX": "abcdefg",
+      "XX": "abcdefg"
+    },
+    "teams": [
+      "XX"
+    ],
+    "artifacts": [
+      "XX"
+    ],
+    "avoid": [
+      "XX"
+    ],
+    "notes": "xx"
+  },
+  {
+    "name": "PRIMAL SWAMP THING",
+    "summary": "Sub-Boss Primal Swamp Thing...",
+    "abilities": {
+      "XX": "abcdefg",
+      "XX": "abcdefg"
+    },
+    "teams": [
+      "XX"
+    ],
+    "artifacts": [
+      "XX"
+    ],
+    "avoid": [
+      "XX"
+    ],
+    "notes": "xx"
+  },
+  {
+    "name": "ENRAGED BANE",
+    "summary": "Boss Enraged Bane...",
+    "abilities": {
+      "XX": "abcdefg",
+      "XX": "abcdefg"
+    },
+    "teams": [
+      "XX"
+    ],
+    "artifacts": [
+      "XX"
+    ],
+    "avoid": [
+      "XX"
+    ],
+    "notes": "xx"
+  }
+]

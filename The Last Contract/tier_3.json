@@ -1,0 +1,92 @@
+[
+  {
+    "name": "AQUAMAN",
+    "summary": "Sub-Boss Aquaman...",
+    "abilities": {
+      "XX": "abcdefg",
+      "XX": "abcdefg"
+    },
+    "teams": [
+      "XX"
+    ],
+    "artifacts": [
+      "XX"
+    ],
+    "avoid": [
+      "XX"
+    ],
+    "notes": "xx"
+  },
+  {
+    "name": "PREDATOR BATMAN",
+    "summary": "Sub-Boss Predator Batman...",
+    "abilities": {
+      "XX": "abcdefg",
+      "XX": "abcdefg"
+    },
+    "teams": [
+      "XX"
+    ],
+    "artifacts": [
+      "XX"
+    ],
+    "avoid": [
+      "XX"
+    ],
+    "notes": "xx"
+  },
+  {
+    "name": "UNBREAKABLE CYBORG",
+    "summary": "Sub-Boss Unbreakable Cyborg...",
+    "abilities": {
+      "XX": "abcdefg",
+      "XX": "abcdefg"
+    },
+    "teams": [
+      "XX"
+    ],
+    "artifacts": [
+      "XX"
+    ],
+    "avoid": [
+      "XX"
+    ],
+    "notes": "xx"
+  },
+  {
+    "name": "ACE GREEN ARROW",
+    "summary": "Sub-Boss Ace Green Arrow...",
+    "abilities": {
+      "XX": "abcdefg",
+      "XX": "abcdefg"
+    },
+    "teams": [
+      "XX"
+    ],
+    "artifacts": [
+      "XX"
+    ],
+    "avoid": [
+      "XX"
+    ],
+    "notes": "xx"
+  },
+  {
+    "name": "RED HOOD",
+    "summary": "Boss Red Hood...",
+    "abilities": {
+      "XX": "abcdefg",
+      "XX": "abcdefg"
+    },
+    "teams": [
+      "XX"
+    ],
+    "artifacts": [
+      "XX"
+    ],
+    "avoid": [
+      "XX"
+    ],
+    "notes": "xx"
+  }
+]

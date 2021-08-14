@@ -85,25 +85,20 @@
   },
   {
     "name": "BATMAN NINJA CATWOMAN",
-    "summary": "Batman Ninja Boss Catwoman...",
+    "summary": "Batman Ninja Boss Catwoman applies Blind with her Special attacks and all her Specials become Lethal on Blinded opponents. She is also immune to Stun, Freeze and has increased Power Generation.",
     "abilities": {
-      "ability 1": "Lorem ipsum dolor sit amet",
-      "ability 2": "consectetur adipiscing elit",
-      "ability 3": "sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+      "POWER FLUCTUATION": "Power generation is increased for opponents, allowing certain Abilities to be used more frequently.",
+      "HARMONIOUS": "Opponents cannot be stunned or frozen."
     },
     "teams": [
-      "alpha",
-      "beta",
-      "gamma"
+      "ANY EXCEPT HBHQ"
     ],
     "artifacts": [
-      "delta"
+      "ANY"
     ],
     "avoid": [
-      "sigma",
-      "epsilon",
-      "omicron"
+      "HBHQ"
     ],
-    "notes": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    "notes": ""
   }
 ]

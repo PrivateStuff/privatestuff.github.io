@@ -23,7 +23,7 @@
     "summary": "Sub-Boss Raiden has increased Power Generation and starts the battle with an amount of Power",
     "abilities": {
       "POWER FLUCTUATION": "Power generation is increased for opponents, allowing certain Abilities to be used more frequently.",
-      "ARSENAL": "Opponents start the battle with an amount of Power.",
+      "ARSENAL": "Opponents start the battle with an amount of Power."
     },
     "teams": [
       "ANY"

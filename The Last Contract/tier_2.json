@@ -73,20 +73,25 @@
   },
   {
     "name": "DEADSHOT",
-    "summary": "Boss Suicide Squad Deadshot deals extra damage for missing Health of opponent. He has increased Critical Attack chance and also is immune to Power Drain.",
+    "summary": "Boss Deadshot...",
     "abilities": {
-      "FOCUSED": "Opponents have increased critical attack chance.",
-      "INSULATED": "Opponents do not lose power when under the influence of a power drain effect."
+      "ability 1": "Lorem ipsum dolor sit amet",
+      "ability 2": "consectetur adipiscing elit",
+      "ability 3": "sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
     },
     "teams": [
-      "ANY"
+      "alpha",
+      "beta",
+      "gamma"
     ],
     "artifacts": [
-      "ANY"
+      "delta"
     ],
     "avoid": [
-      "NONE"
+      "sigma",
+      "epsilon",
+      "omicron"
     ],
-    "notes": ""
+    "notes": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
   }
 ]

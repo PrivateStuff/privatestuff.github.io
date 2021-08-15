@@ -23,7 +23,7 @@
     "summary": "Sub-Boss Justice League Cyborg...",
     "abilities": {
       "UNFLINCHING": "Opponents blocks mitigate more damage.",
-      "ABILITIES DISABLED": "Player's team have one or more of their Abilities disabled."
+      "ABILITIES DISABLED": "Player's team have one or more of their Abilities disabled.",
       "ARSENAL": "Opponents start the battle with an amount of Power."
     },
     "teams": [

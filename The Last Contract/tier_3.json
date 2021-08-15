@@ -77,10 +77,12 @@
   },
   {
     "name": "RED HOOD",
-    "summary": "Boss Red Hood...",
+    "summary": "Boss Red Hood has his Damage from Specials increased and Defense decreased with time. He also has increased Fast Attack chance. In addition, Red Hood also has defensive measures in place to prevent himself from taking an excessive amount of damage from any single attack!",
     "abilities": {
-      "XX": "abcdefg",
-      "XX": "abcdefg"
+      "FORTIFIED": "Opponents have increased defense.",
+      "ADRENALIZED": "Opponents have increased Fast Attack chance.",
+      "COUNTDOWN": "Complete the battle in the allotted time.",
+      "PROTECTIVE SCREEN": "Each instance of damage dealt to opponents that is above a specific threshold is automatically negated and the extra damage is lost."
     },
     "teams": [
       "XX"

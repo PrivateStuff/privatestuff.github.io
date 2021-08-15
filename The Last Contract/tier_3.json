@@ -40,7 +40,7 @@
     "summary": "Sub-Boss Predator Batman has temporarily increased Damage from Basic Attacks after his successful Specials. He also deals Splash Damage to your entire team from Specials and Basic Attacks. In addition, Predator Batman has Lethal Attack Resistance.",
     "abilities": {
       "OVERKILL": "Opponent Abilities or Basic Attacks may also damage tagged out teammates.",
-      "SALVATION": "Opponents have an increased resistance to lethal attacks.",
+      "SALVATION": "Opponents have an increased resistance to Lethal Attacks.",
       "REINFORCED": "Opponents deal increased damage after performing specific attacks."
     },
     "teams": [
@@ -51,7 +51,7 @@
     ],
     "avoid": [
       "BN",
-      "BM+BRN (sp1 method)",
+      "BM+BRN (Sp1 method)",
       "Lethal built teams"
     ],
     "notes": "Avoid using lethal-based teams here like BN or BM (with Brainiac as support and utilising his Sp1) as PBM is resistant to lethal attacks and therefore not optimal against him."
@@ -60,7 +60,7 @@
     "name": "GREEN ARROW",
     "summary": "Sub-Boss Ace Green Arrow deals increase damage based on the fullness of his Power Bar and has increased Power Generation. He is also immune to Power Drain.",
     "abilities": {
-      "POWER FLUCTUATION": "Power generation is increased for opponents, allowing certain Abilities to be used more frequently.",
+      "POWER FLUCTUATION": "Power Generation is increased for opponents, allowing certain Abilities to be used more frequently.",
       "BERSERK": "Each filled segment of the opponent's Power Bar increases the damage they deal.",
       "INSULATED": "Opponents do not lose power when under the influence of a power drain effect."
     },

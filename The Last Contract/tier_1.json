@@ -40,7 +40,7 @@
     "summary": "Sub-Boss Harley Quinn deals increased damage based on the fullness of her Power Bar. She is also immune to Power Drain.",
     "abilities": {
       "BESERK": "Each filled segment of the opponent's Power Bar increases the damage they deal.",
-      "INSULATED": "Opponents do not lose power when under the influence od a power drain effect."
+      "INSULATED": "Opponents do not lose power when under the influence of a power drain effect."
     },
     "teams": [
       "ANY"
@@ -75,7 +75,7 @@
     "name": "DEADSHOT",
     "summary": "Boss Suicide Squad Deadshot deals extra damage for missing Health of opponent. He has increased Critical Attack chance and also is immune to Power Drain.",
     "abilities": {
-      "FOCUSED": "Opponents have increased critical attack chance.",
+      "FOCUSED": "Opponents have increased Critical Attack chance.",
       "INSULATED": "Opponents do not lose power when under the influence of a power drain effect."
     },
     "teams": [

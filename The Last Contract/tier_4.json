@@ -44,7 +44,7 @@
     "abilities": {
       "DEADLY": "Opponents have increased Lethal Attack chance.",
       "ADRENALIZED": "Opponents have increased Fast Attack chance.",
-      "SAVAGE": "Opponents deal more damage with either Basic or Ability attacks."
+      "SAVAGE": "Opponents deal more damage with either Basic or Ability Attacks."
     },
     "teams": [
       "ANY"

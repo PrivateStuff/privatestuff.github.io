@@ -20,7 +20,7 @@
   },
   {
     "name": "RAIDEN",
-    "summary": "Sub-Boss Raiden has increased Power Generation and starts the battle with an amount of Power",
+    "summary": "Sub-Boss Raiden has increased Power Generation and starts the battle with an amount of Power.",
     "abilities": {
       "POWER FLUCTUATION": "Power generation is increased for opponents, allowing certain Abilities to be used more frequently.",
       "ARSENAL": "Opponents start the battle with an amount of Power."
@@ -40,7 +40,7 @@
     "name": "HELLBOY",
     "summary": "Sub-Boss Hellboy disables Gear bonuses for Might and Metahuman character classes and has DoT resistance.",
     "abilities": {
-      "NULL-FIELD": "Healing, gear or passive Abilities are disabled for player heroes",
+      "NULL-FIELD": "Healing, gear or passive Abilities are disabled for player heroes.",
       "ANTI-VENOM": "Opponents have an increased resistance to damage over time."
     },
     "teams": [

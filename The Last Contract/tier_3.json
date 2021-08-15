@@ -68,12 +68,12 @@
       "ANY"
     ],
     "artifacts": [
-      "ANY"
+      "Sword of Salvation"
     ],
     "avoid": [
       "Sword of Sin"
     ],
-    "notes": ""
+    "notes": "Try to keep Boss Green Arrow's power lower to reduce incurring higher damage from his Berserk ability. Use abilities that power steal (Raven's Sp1) or artifacts that power steal (Sword of Salvation)."
   },
   {
     "name": "RED HOOD",

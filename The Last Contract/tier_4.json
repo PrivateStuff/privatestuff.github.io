@@ -5,7 +5,7 @@
     "abilities": {
       "NULL-FIELD": "Healing, gear or passive Abilities are disabled for player heroes.",
       "HARMONIOUS": "Opponents cannot be stunned or frozen.",
-      "IRON-SKINNED": "Opponents take less damage from specific types of attacks.",
+      "IRON-SKINNED": "Opponents take less damage from specific types of attacks."
     },
     "teams": [
       "ANY EXCEPT HBHQ"

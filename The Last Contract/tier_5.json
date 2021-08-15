@@ -5,7 +5,7 @@
     "abilities": {
       "SERRATED": "Opponent's Critical Attacks also cause damage over time.",
       "FOCUSED": "Opponents have increased Critical Attack chance.",
-      "VICIOUS": "Opponents deal increased critital damage.
+      "VICIOUS": "Opponents deal increased critital damage."
     },
     "teams": [
       "ANY"
@@ -42,7 +42,7 @@
     "summary": "Sub-Boss Justice League Flash...",
     "abilities": {
       "FATIGUE": "Opponent's Abilities also cause Power Drain.",
-      RAPID-EVOLUTION": "Opponents change their class periodically through the battle."
+      "RAPID-EVOLUTION": "Opponents change their class periodically through the battle."
     },
     "teams": [
       "ANY"

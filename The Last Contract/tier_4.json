@@ -66,13 +66,13 @@
       "FATIGUE": "Opponent's Abilities also cause Power Drain."
     },
     "teams": [
-      "XX"
+      "ANY"
     ],
     "artifacts": [
       "ANY"
     ],
     "avoid": [
-      "XX"
+      "NONE"
     ],
     "notes": ""
   },

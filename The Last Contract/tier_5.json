@@ -3,26 +3,28 @@
     "name": "KNIGHTMARE BATMAN",
     "summary": "Sub-Boss Knightmare Batman...",
     "abilities": {
-      "XX": "abcdefg",
-      "XX": "abcdefg"
+      "SERRATED": "Opponent's Critical Attacks also cause damage over time.",
+      "FOCUSED": "Opponents have increased Critical Attack chance.",
+      "VICIOUS": "Opponents deal increased critital damage.
     },
     "teams": [
-      "XX"
+      "ANY"
     ],
     "artifacts": [
-      "XX"
+      "ANY"
     ],
     "avoid": [
-      "XX"
+      "NONE"
     ],
-    "notes": "xx"
+    "notes": ""
   },
   {
     "name": "JUSTICE LEAGUE CYBORG",
     "summary": "Sub-Boss Justice League Cyborg...",
     "abilities": {
-      "XX": "abcdefg",
-      "XX": "abcdefg"
+      "UNFLINCHING": "Opponents blocks mitigate more damage.",
+      "ABILITIES DISABLED": "Player's team have one or more of their Abilities disabled."
+      "ARSENAL": "Opponents start the battle with an amount of Power."
     },
     "teams": [
       "XX"
@@ -39,44 +41,46 @@
     "name": "JUSTICE LEAGUE FLASH",
     "summary": "Sub-Boss Justice League Flash...",
     "abilities": {
-      "XX": "abcdefg",
-      "XX": "abcdefg"
+      "FATIGUE": "Opponent's Abilities also cause Power Drain.",
+      RAPID-EVOLUTION": "Opponents change their class periodically through the battle."
     },
     "teams": [
-      "XX"
+      "ANY"
     ],
     "artifacts": [
-      "XX"
+      "ANY"
     ],
     "avoid": [
-      "XX"
+      "NONE"
     ],
-    "notes": "xx"
+    "notes": ""
   },
   {
     "name": "JOKER",
     "summary": "Sub-Boss Joker...",
     "abilities": {
-      "XX": "abcdefg",
-      "XX": "abcdefg"
+      "BLEED": "Opponent's Abilities also cause damage over time.",
+      "IMMUTABLE": "Opponent's Abilities may not be disabled.",
+      "POWER FLUCTUATION": "Power Generation is increased for opponents, allowing certain Abilities to be used more frequently."
     },
     "teams": [
-      "XX"
+      "ANY EXCEPT SB"
     ],
     "artifacts": [
-      "XX"
+      "ANY"
     ],
     "avoid": [
-      "XX"
+      "SB"
     ],
-    "notes": "xx"
+    "notes": ""
   },
   {
     "name": "DEATHSTROKE",
     "summary": "Boss Deathstroke...",
     "abilities": {
-      "XX": "abcdefg",
-      "XX": "abcdefg"
+      "IRON-SKINNED": "Opponents take less damage from specific types of attacks.",
+      "PROTECTIVE SCREEN": "Each instance of damage dealt to opponents that is above a specific threshold is automatically negated and the extra damage is lost.",
+      "IMMUTABLE": "Opponent's Abilities may not be disabled."
     },
     "teams": [
       "XX"
@@ -85,7 +89,7 @@
       "XX"
     ],
     "avoid": [
-      "XX"
+      "SB"
     ],
     "notes": "xx"
   }

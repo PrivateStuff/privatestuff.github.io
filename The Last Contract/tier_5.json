@@ -16,7 +16,7 @@
     "avoid": [
       "NONE"
     ],
-    "notes": ""
+    "notes": "xx"
   },
   {
     "name": "JUSTICE LEAGUE CYBORG",
@@ -53,7 +53,7 @@
     "avoid": [
       "NONE"
     ],
-    "notes": ""
+    "notes": "xx"
   },
   {
     "name": "JOKER",
@@ -72,15 +72,18 @@
     "avoid": [
       "SB"
     ],
-    "notes": ""
+    "notes": "xx"
   },
   {
     "name": "DEATHSTROKE",
     "summary": "Boss Deathstroke...",
     "abilities": {
+      "FOCUSED": "Opponents have increased Critical Attack chance.",
+      "VICIOUS": "Opponents deal increased critical damage.",
       "IRON-SKINNED": "Opponents take less damage from specific types of attacks.",
       "PROTECTIVE SCREEN": "Each instance of damage dealt to opponents that is above a specific threshold is automatically negated and the extra damage is lost.",
-      "IMMUTABLE": "Opponent's Abilities may not be disabled."
+      "IMMUTABLE": "Opponent's Abilities may not be disabled.",
+      "POISON": "Opponents deal increased damage over time."
     },
     "teams": [
       "XX"

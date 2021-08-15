@@ -4,8 +4,8 @@
     "summary": "Sub-Boss Soulstealer Doctor Fate disables opponent's Special 2. He also deals increased damage against Tech and Agility classes.",
     "abilities": {
       "ABILITIES DISABLED": "Player's team have one or more of their Abilities disabled.",
-      "ANTI-TECH FIELD": "Opponents deal increased damage with Basic Attacks and Abilites to Tech heroes.",
-      "ANTI-AGILITY FIELD": "Opponents deal increased damage with Basic Attacks and Abilites to Agility heroes."
+      "ANTI-TECH FIELD": "Opponents deal increased damage with Basic Attacks and Abilities to Tech heroes.",
+      "ANTI-AGILITY FIELD": "Opponents deal increased damage with Basic Attacks and Abilities to Agility heroes."
     },
     "teams": [
       "ANY EXCEPT BN"
@@ -14,9 +14,9 @@
       "ANY"
     ],
     "avoid": [
-      "BN"
+      "NONE"
     ],
-    "notes": "BNCW gets a lot of lethal stacks from DoT ticks from her SP2, it is therefore not optimal to use her here."
+    "notes": "BNCW gets a lot of lethal stacks from DoT ticks from her SP2, therefore it is not optimal to use her here."
   },
   {
     "name": "RAIDEN",
@@ -65,7 +65,7 @@
     "summary": "Sub-Boss Sub-Zero makes tag-in time of opponents longer, but they restore Health upon tag-in. Sub-Zero is also immune to Stun and Freeze.",
     "abilities": {
       "HARMONIOUS": "Opponents cannot be stunned or frozen.",
-      "RECUPERATION": "Tagged in player heroes will heal over time.",
+      "RECUPERATION": "Tagged In player heroes will heal over time.",
       "PROTECTION": "Tag-in time is longer on player's team."
     },
     "teams": [
@@ -85,7 +85,7 @@
   },
   {
     "name": "BATMAN NINJA CATWOMAN",
-    "summary": "Batman Ninja Boss Catwoman applies Blind with her Special attacks and all her Specials become Lethal on Blinded opponents. She is also immune to Stun, Freeze and has increased Power Generation.",
+    "summary": "Boss Batman Ninja Catwoman applies Blind with her Special attacks and all her Specials become Lethal on Blinded opponents. She is also immune to Stun, Freeze and has increased Power Generation.",
     "abilities": {
       "POWER FLUCTUATION": "Power generation is increased for opponents, allowing certain Abilities to be used more frequently.",
       "HARMONIOUS": "Opponents cannot be stunned or frozen."

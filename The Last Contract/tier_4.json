@@ -1,75 +1,80 @@
 [
   {
-    "name": "HEARTBREAKER HARLEY QUINN",
-    "summary": "Sub-Boss Heartbreaker Harley Quinn...",
+    "name": "POISON IVY",
+    "summary": "Sub-Boss Flora Poison Ivy disables opponents Healing. She also reduces damage received from Basic Attacks and is immune to Stun and Freeze.",
     "abilities": {
-      "XX": "abcdefg",
-      "XX": "abcdefg"
+      "NULL-FIELD": "Healing, gear or passive Abilities are disabled for player heroes.",
+      "HARMONIOUS": "Opponents cannot be stunned or frozen.",
+      "IRON-SKINNED": "Opponents take less damage from specific types of attacks.",
     },
     "teams": [
-      "XX"
+      "ANY EXCEPT HBHQ"
     ],
     "artifacts": [
-      "XX"
+      "ANY"
     ],
     "avoid": [
-      "XX"
+      "HBHQ"
     ],
-    "notes": "xx"
-  },
-  {
-    "name": "ENTANGLING POISON IVY",
-    "summary": "Sub-Boss Entangling Poison Ivy...",
-    "abilities": {
-      "XX": "abcdefg",
-      "XX": "abcdefg"
-    },
-    "teams": [
-      "XX"
-    ],
-    "artifacts": [
-      "XX"
-    ],
-    "avoid": [
-      "XX"
-    ],
-    "notes": "xx"
+    "notes": ""
   },
   {
     "name": "HORRIFIC SCARECROW",
-    "summary": "Sub-Boss Horrific Scarecrow...",
+    "summary": "Sub-Boss Horrific Scarecrow deals increased damage based on the fullness of his Power Bar and has increased Power Generation. His Hazards not only disable opponent's Specials, but also Power Drain.",
     "abilities": {
-      "XX": "abcdefg",
-      "XX": "abcdefg"
+      "POWER FLUCTUATION": "Power generation is increased for opponents, allowing certain Abilities to be used more frequently.",
+      "BERSERK": "Each filled segment of the opponent's Power Bar increases the damage they deal.",
+      "ENHANCED": "Opponents Hazards have extra effects."
     },
     "teams": [
-      "XX"
+      "ANY"
     ],
     "artifacts": [
-      "XX"
+      "Sword of Salvation",
+      "Sword of Sin"
     ],
     "avoid": [
-      "XX"
+      "NONE"
     ],
-    "notes": "xx"
+    "notes": "Try to keep Boss HSC's power lower to reduce incurring higher damage from his Berserk ability. Use Abilities that power steal (Raven's Sp1) or artifacts that power steal (Sword of Salvation) or power drain (Sword of Sin)."
   },
   {
-    "name": "PRIMAL SWAMP THING",
-    "summary": "Sub-Boss Primal Swamp Thing...",
+    "name": "HARLEY QUINN",
+    "summary": "Sub-Boss Heartbreaker Harley Quinn is focused on attacks - Lethal and Fast Attack's chances are increased. Her Specials also have increased Damage.",
     "abilities": {
-      "XX": "abcdefg",
-      "XX": "abcdefg"
+      "DEADLY": "Opponents have increased Lethal Attack chance.",
+      "ADRENALIZED": "Opponents have increased Fast Attack chance.",
+      "SAVAGE": "Opponents deal more damage with either Basic or Ability attacks."
+    },
+    "teams": [
+      "ANY"
+    ],
+    "artifacts": [
+      "ANY"
+    ],
+    "avoid": [
+      "NONE"
+    ],
+    "notes": ""
+  },
+  {
+    "name": "SWAMP THING",
+    "summary": "Sub-Boss Primal Swamp Thing drain opponents Power with successful Special 1 and Special 2. His Basic Attacks also do Splash Damage to your entire team. Additionally, Primal Swamp Thing negates damage from Special 1 and Special 2.",
+    "abilities": {
+      "ADAPTATION": "Opponents ignore specific damage types.",
+      "OVERKILL": "Opponent Abilities or Basic Attacks may also damage tagged out teammates.",
+      "FATIGUE": "Opponent's Abilities also cause Power Drain."
     },
     "teams": [
       "XX"
     ],
     "artifacts": [
-      "XX"
+      "ANY"
     ],
     "avoid": [
       "XX"
     ],
-    "notes": "xx"
+    "notes": ""
   },
   {
     "name": "ENRAGED BANE",

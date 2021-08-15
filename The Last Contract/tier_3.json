@@ -1,75 +1,79 @@
 [
   {
+    "name": "CYBORG",
+    "summary": "Sub-Boss Unbreakable Cyborg deals increased DoT and applies DoT on stunned opponents. He also starts the battle with an amount of Power.",
+    "abilities": {
+      "ARSENAL": "Opponents start the battle with an amount of Power.",
+      "NO MERCY": "When stunned, any additional stun attacks by opponents apply damage over time.",
+      "POISON": "Opponents deal increased damage over time."
+    },
+    "teams": [
+      "ANY"
+    ],
+    "artifacts": [
+      "ANY"
+    ],
+    "avoid": [
+      "N/A"
+    ],
+    "notes": ""
+  },
+  {
     "name": "AQUAMAN",
-    "summary": "Sub-Boss Aquaman...",
+    "summary": "Sub-Boss Aquaman has his Hazards duration longer and they also break Combo of opponents.",
     "abilities": {
-      "XX": "abcdefg",
-      "XX": "abcdefg"
+      "ENHANCED": "Opponents Hazards have extra effects."
     },
     "teams": [
-      "XX"
+      "ANY"
     ],
     "artifacts": [
-      "XX"
+      "ANY"
     ],
     "avoid": [
-      "XX"
+      "N/A"
     ],
-    "notes": "xx"
+    "notes": ""
   },
   {
-    "name": "PREDATOR BATMAN",
-    "summary": "Sub-Boss Predator Batman...",
+    "name": "BATMAN",
+    "summary": "Sub-Boss Predator Batman has temporarily increased Damage from Basic Attacks after his successful Specials. He also deals Splash Damage to your entire team from Specials and Basic Attacks. In addition, Predator Batman has Lethal Attack Resistance.",
     "abilities": {
-      "XX": "abcdefg",
-      "XX": "abcdefg"
+      "OVERKILL": "Opponent Abilities or Basic Attacks may also damage tagged out teammates.",
+      "SALVATION": "Opponents have an increased resistance to lethal attacks.",
+      "REINFORCED": "Opponents deal increased damage after performing specific attacks."
     },
     "teams": [
-      "XX"
+      "ANY EXCEPT BN"
     ],
     "artifacts": [
-      "XX"
+      "ANY"
     ],
     "avoid": [
-      "XX"
+      "BN",
+      "BM+BRN (sp1 method)",
+      "Lethal built teams"
     ],
-    "notes": "xx"
+    "notes": "Avoid using lethal-based teams here like BN or BM (with Brainiac as support and utilising his Sp1) as PBM is resistant to lethal attacks and therefore not optimal against him."
   },
   {
-    "name": "UNBREAKABLE CYBORG",
-    "summary": "Sub-Boss Unbreakable Cyborg...",
+    "name": "GREEN ARROW",
+    "summary": "Sub-Boss Ace Green Arrow deals increase damage based on the fullness of his Power Bar and has increased Power Generation. He is also immune to Power Drain.",
     "abilities": {
-      "XX": "abcdefg",
-      "XX": "abcdefg"
+      "POWER FLUCTUATION": "Power generation is increased for opponents, allowing certain Abilities to be used more frequently.",
+      "BERSERK": "Each filled segment of the opponent's Power Bar increases the damage they deal.",
+      "INSULATED": "Opponents do not lose power when under the influence of a power drain effect."
     },
     "teams": [
-      "XX"
+      "ANY"
     ],
     "artifacts": [
-      "XX"
+      "ANY"
     ],
     "avoid": [
-      "XX"
+      "Sword of Sin"
     ],
-    "notes": "xx"
-  },
-  {
-    "name": "ACE GREEN ARROW",
-    "summary": "Sub-Boss Ace Green Arrow...",
-    "abilities": {
-      "XX": "abcdefg",
-      "XX": "abcdefg"
-    },
-    "teams": [
-      "XX"
-    ],
-    "artifacts": [
-      "XX"
-    ],
-    "avoid": [
-      "XX"
-    ],
-    "notes": "xx"
+    "notes": ""
   },
   {
     "name": "RED HOOD",

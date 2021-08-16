@@ -51,10 +51,9 @@
       "SB"
     ],
     "artifacts": [
-      "ANY EXCEPT BETA CLUB"
+      "ANY"
     ],
     "avoid": [
-      "LOA",
       "MV",
       "KOAAM",
       "JLS"

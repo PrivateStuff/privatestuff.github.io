@@ -2,11 +2,17 @@ $(document).ready(function(){
     $('textarea').keyup(function() {
         // $('.hiddenp').text($('textarea#name').val());
         json = updateJSON();
-        updateBossJSON(".preview", json);
+        drawPreview(".preview", json);
     });
 
     function updateJSON() {
-        abilities = $("#ability_list").val().split("\n");
+        abilities_lines = $("#ability_list").val().split("\n");
+        var abilities = {}
+        for (var i=0; i<abilities_lines.length; i++){
+            line = abilities_lines[i];
+            line = line.split(":");
+            abilities[line[0]] = line[1]
+        }
         teams = $("#teams_list").val().split("\n");
         artifacts = $("#artifacts_list").val().split("\n");
         avoid = $("#avoid_list").val().split("\n");
@@ -30,7 +36,7 @@ $(document).ready(function(){
         return jsonObj;
     }
 
-    function updateBossJSON(bossClass, json){
+    function drawPreview(bossClass, json){
         var data = JSON.parse(json); // Parse the result into an object 
         var boss = '';
 

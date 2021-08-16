@@ -22,7 +22,7 @@
     "summary": "Sub-Boss Telekinetic Gorilla Grodd applies DoT on stunned opponents from his Special. He also has Armour Pierce immunity.",
     "abilities": {
       "NO MERCY": "When stunned, any additional stun attacks by opponents apply damage over time.",
-      "IMPENETRABLE": "Player basic, swipe and tag attacks with Armour Pierce do not bypass defense of opponents."
+      "IMPENETRABLE": "Player basic, swipe, and tag attacks with Armor Pierce do not bypass defense of opponents."
     },
     "teams": [
       "ANY"
@@ -37,9 +37,9 @@
   },
   {
     "name": "UNHINGED HARLEY QUINN",
-    "summary": "Sub-Boss Harley Quinn deals increased damage based on the fullness of her Power Bar. She is also immune to Power Drain.",
+    "summary": "Sub-Boss Unhinged Harley Quinn deals increased damage based on the fullness of her Power Bar. She is also immune to Power Drain.",
     "abilities": {
-      "BESERK": "Each filled segment of the opponent's Power Bar increases the damage they deal.",
+      "BERSERK": "Each filled segment of the opponent's Power Bar increases the damage they deal.",
       "INSULATED": "Opponents do not lose power when under the influence of a power drain effect."
     },
     "teams": [

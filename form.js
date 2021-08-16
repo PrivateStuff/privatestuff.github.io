@@ -1,4 +1,6 @@
 $(document).ready(function(){
+    json = updateJSON();
+    drawPreview(".preview", json);
     $('textarea').keyup(function() {
         // $('.hiddenp').text($('textarea#name').val());
         json = updateJSON();

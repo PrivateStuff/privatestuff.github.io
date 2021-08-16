@@ -33,7 +33,7 @@ $(document).ready(function(){
         if ($("#download").length != 0) {
             $("#download").remove();
         }
-        $('<a id="download" href="data:' + myJSON + '" download="data.json">download JSON</a>').appendTo('.form');
+        $('<a id="download" href="data:' + myJSON + '" download="data.json">Download JSON</a>').appendTo('.form');
 
         return jsonObj;
     }

@@ -8,20 +8,14 @@
 	<title>Solo Guide Maker</title>
 </head>
 <body>
-	<!-- <div class="form">
-		<p></p>
-		<textarea id="textArea"></textarea>
-		<p>Download JSON file</p>
-		<button id="jsonFileOutput">Download JSON</button>
-		<br>
-		<p>Upload JSON Tier Data</p>
-		<input type="file" id="jsonFileInput" accept=".json">
-	</div>
 	<div>
-		<p class='hiddenp'></p>
-	</div> -->
+		<p>Upload Banner Image</p>
+		<input type="file" id="imgFileInput" accept=".png, .jpg">	
+	</div>
+	
 
 	<div class="form" id="tier-1">
+		<h2>Sub Boss 1</h2>
 		<p>Name</p>
 		<textarea id="name"></textarea>
 		<p>Summary</p>
@@ -38,11 +32,18 @@
 		<textarea id="notes"></textarea>
 	</div>
 
+	<div class="preview-container">
+		<div id=banner>
+	</div>
 	<div class="preview">
+
 		
 	</div>
+	</div>
+	
 
 	<script src="https://code.jquery.com/jquery-3.5.1.js"></script>
 	<script src="form.js"></script>
+	<script src="script.js"></script>
 </body>
 </html>

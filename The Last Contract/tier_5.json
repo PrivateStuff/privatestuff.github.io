@@ -1,10 +1,10 @@
 [
   {
     "name": "KNIGHTMARE BATMAN",
-    "summary": "Sub-Boss Knightmare Batman...",
+    "summary": "Sub-Boss Knightmare Batman is focused on Critical Attack. He has increased Critical Attack chance and damage, and additionally applies DoT on his Critical Attacks.",
     "abilities": {
-      "SERRATED": "Opponent's Critical Attacks also cause damage over time.",
       "FOCUSED": "Opponents have increased Critical Attack chance.",
+      "SERRATED": "Opponent's Critical Attacks also cause damage over time.",
       "VICIOUS": "Opponents deal increased critital damage."
     },
     "teams": [
@@ -20,29 +20,30 @@
   },
   {
     "name": "JUSTICE LEAGUE CYBORG",
-    "summary": "Sub-Boss Justice League Cyborg...",
+    "summary": "Sub-Boss Justice League Cyborg disables opponent's Special 2. He blocks more damage than usual and starts the battle with an amount of Power.",
     "abilities": {
-      "UNFLINCHING": "Opponents blocks mitigate more damage.",
       "ABILITIES DISABLED": "Player's team have one or more of their Abilities disabled.",
+      "UNFLINCHING": "Opponents blocks mitigate more damage.",
       "ARSENAL": "Opponents start the battle with an amount of Power."
     },
     "teams": [
-      "XX"
+      "ANY EXCEPT SB"
     ],
     "artifacts": [
       "XX"
     ],
     "avoid": [
-      "XX"
+      "SB"
     ],
-    "notes": "xx"
+    "notes": ""
   },
   {
     "name": "JUSTICE LEAGUE FLASH",
-    "summary": "Sub-Boss Justice League Flash...",
+    "summary": "Sub-Boss Justice League The Flash can drain opponent's Power with successful Specials. You can break his Combo only with your Specials. And bewarre of his rapid class change, as he has very strong bonuses against the weaker class.",
     "abilities": {
+      "RAPID-EVOLUTION": "Opponents change their class periodically through the battle.",
       "FATIGUE": "Opponent's Abilities also cause Power Drain.",
-      "RAPID-EVOLUTION": "Opponents change their class periodically through the battle."
+      "CONTINUITY": "Opponents Combo Meter breaks by specific attacks only."
     },
     "teams": [
       "ANY"
@@ -53,14 +54,14 @@
     "avoid": [
       "NONE"
     ],
-    "notes": "xx"
+    "notes": ""
   },
   {
-    "name": "JOKER",
-    "summary": "Sub-Boss Joker...",
+    "name": "THE JOKER",
+    "summary": "Sub-Boss The Joker applies DoT on his Specials and they can't be disabled. He also has increased Power Generation.",
     "abilities": {
-      "BLEED": "Opponent's Abilities also cause damage over time.",
       "IMMUTABLE": "Opponent's Abilities may not be disabled.",
+      "BLEED": "Opponent's Abilities also cause damage over time.",
       "POWER FLUCTUATION": "Power Generation is increased for opponents, allowing certain Abilities to be used more frequently."
     },
     "teams": [
@@ -79,17 +80,16 @@
     "summary": "Boss Deathstroke...",
     "abilities": {
       "FOCUSED": "Opponents have increased Critical Attack chance.",
-      "VICIOUS": "Opponents deal increased critical damage.",
       "IRON-SKINNED": "Opponents take less damage from specific types of attacks.",
       "PROTECTIVE SCREEN": "Each instance of damage dealt to opponents that is above a specific threshold is automatically negated and the extra damage is lost.",
       "IMMUTABLE": "Opponent's Abilities may not be disabled.",
       "POISON": "Opponents deal increased damage over time."
     },
     "teams": [
-      "XX"
+      "ANY EXCEPT SB"
     ],
     "artifacts": [
-      "XX"
+      "ANY"
     ],
     "avoid": [
       "SB"

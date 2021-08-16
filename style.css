@@ -1,16 +1,16 @@
 @font-face {
-  font-family: calibri-light;
-  src: url(./fonts/calibril.ttf);
+	font-family: calibri-light;
+	src: url(./fonts/calibril.ttf);
 }
 
 @font-face {
-  font-family: trsc;
-  src: url(./fonts/Times-RomanSC.otf);
+	font-family: trsc;
+	src: url(./fonts/Times-RomanSC.otf);
 }
 
 @font-face {
-  font-family: helv;
-  src: url(./fonts/Helvetica-Oblique.ttf);
+	font-family: helv;
+	src: url(./fonts/Helvetica-Oblique.ttf);
 }
 
 body {
@@ -29,9 +29,9 @@ body {
 }
 
 input[type=file]{
-  border: none;
-  color: black;
-  text-decoration: none;
+	border: none;
+	color: black;
+	text-decoration: none;
 }
 
 #bosses {
@@ -127,9 +127,6 @@ p {
 }
 
 .form{
-	width: 100%;
-	max-width: 100%;
-	float: left;
 	overflow: hidden;
 	z-index: 100;
 	background-color: #f2f2f2;
@@ -155,19 +152,19 @@ p {
 }
 
 .form textarea{
-	width: 100%;
 	max-width: 100%;
 	min-width: 100%;
 	padding: 0px 10px;
 	box-sizing: border-box;
 }
 
-.dlul {
-	float: left;
+.dlul{
 }
 
-.left{
-width: 25%;
-margin-right: 10px;
-	/*padding: 20px;*/
+.form-left{
+	width: 25%;
+	float: left;
+	/*display: table;*/
+	/*margin-right: 10px;*/
+	padding: 1px;
 }

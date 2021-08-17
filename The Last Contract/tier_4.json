@@ -40,7 +40,7 @@
   },
   {
     "name": "HARLEY QUINN",
-    "summary": "Sub-Boss Heartbreaker Harley Quinn is focused on attacks - Lethal and Fast Attack's chances are increased. Her Specials also have increased Damage.",
+    "summary": "Sub-Boss Heartbreaker Harley Quinn is focused on attacks — Lethal and Fast Attack's chances are increased. Her Specials also have increased damage.",
     "abilities": {
       "DEADLY": "Opponents have increased Lethal Attack chance.",
       "ADRENALIZED": "Opponents have increased Fast Attack chance.",
@@ -66,15 +66,15 @@
       "FATIGUE": "Opponent's Abilities also cause Power Drain."
     },
     "teams": [
-      "ANY"
+      "ANY EXCEPT BN"
     ],
     "artifacts": [
       "ANY"
     ],
     "avoid": [
-      "NONE"
+      "BN"
     ],
-    "notes": ""
+    "notes": "PST negates damage from Sp2, therefore BNCW's Sp2 will not work."
   },
   {
     "name": "ENRAGED BANE",
@@ -85,8 +85,8 @@
     },
     "teams": [
       "BN",
-      "Raven (sp3)",
-      "BM w/ BRN sp1 method"
+      "Raven (Sp3)",
+      "BM w/ BRN Sp1 method"
     ],
     "artifacts": [
       "ANY",

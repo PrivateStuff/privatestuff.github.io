@@ -28,12 +28,15 @@
       "ANY"
     ],
     "artifacts": [
-      "ANY"
+      "Claw of Horus",
+      "Kryptonite Spear",
+      "Sword of Salvation",
+      "Sword of Sin"
     ],
     "avoid": [
       "NONE"
     ],
-    "notes": ""
+    "notes": "Like in ROK SR, TGG has a might shield. The suggested artifacts can help: Claw of Horus (to stun), Kryptonite Spear (to bypass the might shield), Sword of Salvation (to power steal), and Sword of Sin (to power drain)."
   },
   {
     "name": "UNHINGED HARLEY QUINN",

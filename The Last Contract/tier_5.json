@@ -27,15 +27,15 @@
       "ARSENAL": "Opponents start the battle with an amount of Power."
     },
     "teams": [
-      "ANY EXCEPT SB"
+      "ANY EXCEPT BN"
     ],
     "artifacts": [
       "ANY"
     ],
     "avoid": [
-      "SB"
+      "BN"
     ],
-    "notes": ""
+    "notes": "Avoid playing BN here as BN gameplay requires BNCW's Sp2."
   },
   {
     "name": "JUSTICE LEAGUE FLASH",
@@ -54,7 +54,7 @@
     "avoid": [
       "NONE"
     ],
-    "notes": ""
+    "notes": "Vixen can be a useful support in negating the effects of being at a class disadvantage."
   },
   {
     "name": "THE JOKER",
@@ -88,7 +88,7 @@
       "ANY"
     ],
     "artifacts": [
-      "ANY"
+      "Ikon Suit"
     ],
     "avoid": [
       "NONE"

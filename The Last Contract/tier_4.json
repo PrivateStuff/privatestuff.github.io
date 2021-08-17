@@ -78,20 +78,23 @@
   },
   {
     "name": "ENRAGED BANE",
-    "summary": "Boss Enraged Bane...",
+    "summary": "Boss Enraged Bane gets Infuriated after receiving unblocked Special damage. While in this state, Bane's Specials become unblockable, but he is more susceptible to Lethal Attacks. He also has increased Power Generation and blocks more damage than usual. In addition, Enraged Bane has defensive measures in place to prevent himself from taking an excessive amount of damage from any single attack!",
     "abilities": {
-      "XX": "abcdefg",
-      "XX": "abcdefg"
+      "POWER FLUCTUATION": "Power generation is increased for opponents, allowing certain Abilities to be used more frequently.",
+      "PROTECTIVE SCREEN": "Each instance of damage dealt to opponents that is above a specific threshold is automatically negated and the extra damage is lost."
     },
     "teams": [
-      "XX"
+      "BN",
+      "Raven (sp3)",
+      "BM w/ BRN sp1 method"
     ],
     "artifacts": [
-      "XX"
+      "ANY",
+      "*See notes"
     ],
     "avoid": [
-      "XX"
+      "NONE"
     ],
-    "notes": "xx"
+    "notes": "Try to keep Bane's power low to reduce him from using Specials. Use Abilities that power steal (Raven's Sp1) or artifacts that power steal (Sword of Salvation) or power drain (Sword of Sin)."
   }
 ]

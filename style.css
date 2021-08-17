@@ -83,7 +83,7 @@ h1,h2,h3 {
 }
 
 p {
-	margin: 5px 0 5px 0;
+	margin: -5px 0 5px 0;
 	color: #9b9b9b;
 }
 
@@ -170,5 +170,4 @@ p {
 	/*display: table;*/
 	/*margin-right: 10px;*/
 	padding: 1px;
-	margin-top: 2px;
 }

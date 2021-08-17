@@ -89,7 +89,7 @@ p {
 
 .list-items {
 	text-indent: 10px;
-	margin-top: 5px;
+	top: 10px;
 }
 
 #watermark {

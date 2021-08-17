@@ -30,7 +30,7 @@ window.addEventListener('load', function() {
                         boss += 'TEAMS:';
                         boss += '</h3>';
                         $.each(value.teams, function(index, team) {
-                            boss += '<p>';
+                            boss += '<p class="list-items">';
                             boss += team;
                             boss += '</p>';
                         });
@@ -38,7 +38,7 @@ window.addEventListener('load', function() {
                         boss += 'ARTIFACTS:';
                         boss += '</h3>';
                         $.each(value.artifacts, function(index, artifact) {
-                            boss += '<p>';
+                            boss += '<p class="list-items">';
                             boss += artifact;
                             boss += '</p>';
                         });
@@ -46,7 +46,7 @@ window.addEventListener('load', function() {
                         boss += 'AVOID:';
                         boss += '</h3>';
                         $.each(value.avoid, function(index, team) {
-                            boss += '<p>';
+                            boss += '<p class="list-items">';
                             boss += team;
                             boss += '</p>';
                         });

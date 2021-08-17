@@ -52,9 +52,9 @@
       "ANY"
     ],
     "avoid": [
-      "NONE"
+      "NONE EXCEPT Sword of Sin"
     ],
-    "notes": ""
+    "notes": "Sword of Sin"
   },
   {
     "name": "CHEETAH",

@@ -5,7 +5,7 @@
     "abilities": {
       "FOCUSED": "Opponents have increased Critical Attack chance.",
       "SERRATED": "Opponent's Critical Attacks also cause damage over time.",
-      "VICIOUS": "Opponents deal increased critital damage."
+      "VICIOUS": "Opponents deal increased critical damage."
     },
     "teams": [
       "ANY"
@@ -30,7 +30,7 @@
       "ANY EXCEPT SB"
     ],
     "artifacts": [
-      "XX"
+      "ANY"
     ],
     "avoid": [
       "SB"
@@ -39,7 +39,7 @@
   },
   {
     "name": "JUSTICE LEAGUE FLASH",
-    "summary": "Sub-Boss Justice League The Flash can drain opponent's Power with successful Specials. You can break his Combo only with your Specials. And bewarre of his rapid class change, as he has very strong bonuses against the weaker class.",
+    "summary": "Sub-Boss Justice League The Flash can drain opponent's Power with successful Specials. You can break his Combo only with your Specials. And beware of his rapid class change, as he has very strong bonuses against the weaker class.",
     "abilities": {
       "RAPID-EVOLUTION": "Opponents change their class periodically through the battle.",
       "FATIGUE": "Opponent's Abilities also cause Power Drain.",
@@ -73,27 +73,26 @@
     "avoid": [
       "SB"
     ],
-    "notes": "xx"
+    "notes": ""
   },
   {
     "name": "DEATHSTROKE",
-    "summary": "Boss Deathstroke...",
+    "summary": "Boss Deathstroke drops gas grenades decreasing Critical Attack Resistance and applying DoT on opponents. He has increased Critical Attack chance and his Attacks can't be disabled. In addition, Deathstroke has defensive measures in place to prevent himself from taking an excessive amount of damage from any single attack!",
     "abilities": {
-      "FOCUSED": "Opponents have increased Critical Attack chance.",
-      "IRON-SKINNED": "Opponents take less damage from specific types of attacks.",
+      "POISON": "Opponents deal increased damage over time.",
       "PROTECTIVE SCREEN": "Each instance of damage dealt to opponents that is above a specific threshold is automatically negated and the extra damage is lost.",
-      "IMMUTABLE": "Opponent's Abilities may not be disabled.",
-      "POISON": "Opponents deal increased damage over time."
+      "FOCUSED": "Opponents have increased Critical Attack chance.",
+      "CLOAKED": "Opponents have an increased resistance to critical attacks."
     },
     "teams": [
-      "ANY EXCEPT SB"
+      "ANY"
     ],
     "artifacts": [
       "ANY"
     ],
     "avoid": [
-      "SB"
+      "NONE"
     ],
-    "notes": "xx"
+    "notes": ""
   }
 ]

@@ -1,0 +1,95 @@
+[
+  {
+    "name": "MULTIVERSE CAPTAIN COLD",
+    "summary": "Sub-Boss Multiverse Captain Cold disables opponent's Special 1. You can break his Combo only with your Specials",
+    "abilities": {
+      "CONTINUITY": "Opponents Combo Meter breaks by specific attacks only.",
+      "ABILITIES DISABLED": "Player's team have one or more of their Abilities disabled."
+    },
+    "teams": [
+      "ANY EXCEPT SB"
+    ],
+    "artifacts": [
+      "ANY"
+    ],
+    "avoid": [
+      "SB"
+    ],
+    "notes": ""
+  },
+  {
+    "name": "TELEKINETIC GORILLA GRODD",
+    "summary": "Sub-Boss Telekinetic Gorilla Grodd applies DoT on stunned opponents from his Special. He also has Armor Pierce immunity.",
+    "abilities": {
+      "NO MERCY": "When stunned, any additional stun attacks by opponents apply damage over time.",
+      "IMPENETRABLE": "Player basic, swipe, and tag attacks with Armor Pierce do not bypass defense of opponents."
+    },
+    "teams": [
+      "ANY"
+    ],
+    "artifacts": [
+      "Claw of Horus",
+      "Kryptonite Spear",
+      "Sword of Salvation",
+      "Sword of Sin"
+    ],
+    "avoid": [
+      "NONE"
+    ],
+    "notes": "Like in ROK SR, TGG has a might shield. The suggested artifacts can help: Claw of Horus (to stun), Kryptonite Spear (to bypass the might shield), Sword of Salvation (to power steal), and Sword of Sin (to power drain)."
+  },
+  {
+    "name": "UNHINGED HARLEY QUINN",
+    "summary": "Sub-Boss Unhinged Harley Quinn deals increased damage based on the fullness of her Power Bar. She is also immune to Power Drain.",
+    "abilities": {
+      "BERSERK": "Each filled segment of the opponent's Power Bar increases the damage they deal.",
+      "INSULATED": "Opponents do not lose power when under the influence of a power drain effect."
+    },
+    "teams": [
+      "ANY"
+    ],
+    "artifacts": [
+      "ANY"
+    ],
+    "avoid": [
+      "NONE"
+    ],
+    "notes": ""
+  },
+  {
+    "name": "CHEETAH",
+    "summary": "Sub-Boss Cheetah deals increased damage over time and applies DoT on her Specials.",
+    "abilities": {
+      "POISON": "Opponents deal increased damage over time.",
+      "BLEED": "Opponent's Abilities also cause damage over time."
+    },
+    "teams": [
+      "ANY"
+    ],
+    "artifacts": [
+      "ANY"
+    ],
+    "avoid": [
+      "NONE"
+    ],
+    "notes": ""
+  },
+  {
+    "name": "DEADSHOT",
+    "summary": "Boss Suicide Squad Deadshot deals extra damage for missing Health of opponent. He has increased Critical Attack chance and also is immune to Power Drain.",
+    "abilities": {
+      "FOCUSED": "Opponents have increased Critical Attack chance.",
+      "INSULATED": "Opponents do not lose power when under the influence of a power drain effect."
+    },
+    "teams": [
+      "ANY"
+    ],
+    "artifacts": [
+      "ANY"
+    ],
+    "avoid": [
+      "NONE"
+    ],
+    "notes": ""
+  }
+]

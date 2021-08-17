@@ -83,13 +83,12 @@ h1,h2,h3 {
 }
 
 p {
-	margin: -5px 0 5px 0;
+	margin: 5px 0 5px 0;
 	color: #9b9b9b;
 }
 
 .list-items {
 	text-indent: 10px;
-	top: 10px;
 }
 
 #watermark {

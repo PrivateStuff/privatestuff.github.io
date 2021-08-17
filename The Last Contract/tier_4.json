@@ -81,6 +81,7 @@
     "summary": "Boss Enraged Bane gets Infuriated after receiving unblocked Special damage. While in this state, Bane's Specials become unblockable, but he is more susceptible to Lethal Attacks. He also has increased Power Generation and blocks more damage than usual. In addition, Enraged Bane has defensive measures in place to prevent himself from taking an excessive amount of damage from any single attack!",
     "abilities": {
       "POWER FLUCTUATION": "Power generation is increased for opponents, allowing certain Abilities to be used more frequently.",
+      "UNFLINCHING": "Opponents blocks mitigate more damage.",
       "PROTECTIVE SCREEN": "Each instance of damage dealt to opponents that is above a specific threshold is automatically negated and the extra damage is lost."
     },
     "teams": [

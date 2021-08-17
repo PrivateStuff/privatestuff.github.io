@@ -63,7 +63,7 @@ $(document).ready(function(){
             boss += 'TEAMS:';
             boss += '</h3>';
             $.each(value.teams, function(index, team) {
-                boss += '<p>';
+                boss += '<p class="list-items">';
                 boss += team;
                 boss += '</p>';
             });
@@ -71,7 +71,7 @@ $(document).ready(function(){
             boss += 'ARTIFACTS:';
             boss += '</h3>';
             $.each(value.artifacts, function(index, artifact) {
-                boss += '<p>';
+                boss += '<p class="list-items">';
                 boss += artifact;
                 boss += '</p>';
             });
@@ -79,7 +79,7 @@ $(document).ready(function(){
             boss += 'AVOID:';
             boss += '</h3>';
             $.each(value.avoid, function(index, team) {
-                boss += '<p>';
+                boss += '<p class="list-items">';
                 boss += team;
                 boss += '</p>';
             });

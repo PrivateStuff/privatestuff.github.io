@@ -19,7 +19,7 @@
   },
   {
     "name": "TELEKINETIC GORILLA GRODD",
-    "summary": "Sub-Boss Telekinetic Gorilla Grodd applies DoT on stunned opponents from his Special. He also has Armour Pierce immunity.",
+    "summary": "Sub-Boss Telekinetic Gorilla Grodd applies DoT on stunned opponents from his Special. He also has Armor Pierce immunity.",
     "abilities": {
       "NO MERCY": "When stunned, any additional stun attacks by opponents apply damage over time.",
       "IMPENETRABLE": "Player basic, swipe, and tag attacks with Armor Pierce do not bypass defense of opponents."

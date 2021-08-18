@@ -73,7 +73,7 @@
     "avoid": [
       "Sword of Sin"
     ],
-    "notes": "Try to keep Sub-Boss Green Arrow's power lower to reduce incurring higher damage from his Berserk ability. Use abilities that power steal (Raven's Sp1) or artifacts that power steal (Sword of Salvation)."
+    "notes": "Try to keep Sub-Boss AGA power lower to reduce incurring higher damage from his Berserk ability. Use abilities that power steal (Raven's Sp1) or artifacts that power steal (Sword of Salvation)."
   },
   {
     "name": "RED HOOD",
@@ -96,6 +96,6 @@
     "avoid": [
       "KOA"
     ],
-    "notes": "Boss Red Hood has very high defense at the start and even through most of the fight, use artifacts or characters that can reduce defence such as Sword of Sin, BM, JLSM, MVASG that apply burn to halve the current oppponent's defense or Radion that reduces the opponent's defence for a period of time after a swipe."
+    "notes": "Boss RH has very high defense at the start and even through most of the fight, use artifacts or characters that can reduce defence such as Sword of Sin, BM, JLSM, MVASG that apply burn to halve the current oppponent's defense or Radion that reduces the opponent's defence for a period of time after a swipe."
   }
 ]

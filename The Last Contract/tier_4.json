@@ -36,7 +36,7 @@
     "avoid": [
       "NONE"
     ],
-    "notes": "Try to keep Boss HSC's power low to reduce incurring higher damage from his Berserk ability. Use Abilities that power steal (Raven's Sp1) or artifacts that power steal (Sword of Salvation) or power drain (Sword of Sin)."
+    "notes": "Try to keep Sub-Boss HSC's power low to reduce incurring higher damage from his Berserk ability. Use Abilities that power steal (Raven's Sp1) or artifacts that power steal (Sword of Salvation) or power drain (Sword of Sin)."
   },
   {
     "name": "HARLEY QUINN",
@@ -74,7 +74,7 @@
     "avoid": [
       "BN"
     ],
-    "notes": "PST negates damage from Sp2, therefore BNCW's Sp2 will not work."
+    "notes": "Sub-Boss PST negates damage from Sp2, therefore BNCW's Sp2 will not work."
   },
   {
     "name": "ENRAGED BANE",
@@ -96,6 +96,6 @@
     "avoid": [
       "NONE"
     ],
-    "notes": "Try to keep Bane's power low to reduce him from using Specials. Use Abilities that power steal (Raven's Sp1) or artifacts that power steal (Sword of Salvation) or power drain (Sword of Sin)."
+    "notes": "Try to keep Boss Bane's power low to reduce him from using Specials. Use Abilities that power steal (Raven's Sp1) or artifacts that power steal (Sword of Salvation) or power drain (Sword of Sin)."
   }
 ]

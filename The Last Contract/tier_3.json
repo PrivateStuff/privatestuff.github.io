@@ -54,7 +54,7 @@
       "BM+BRN (Sp1 method)",
       "Lethal built teams"
     ],
-    "notes": "Avoid using lethal-based teams here like BN or BM (with Brainiac as support and utilising his Sp1) as PBM is resistant to lethal attacks and therefore not optimal against him."
+    "notes": "Avoid using lethal-based teams here like BN or BM (with Brainiac as support and utilising his Sp1) as Sub-Boss PBM is resistant to lethal attacks and therefore not optimal against him."
   },
   {
     "name": "GREEN ARROW",
@@ -73,7 +73,7 @@
     "avoid": [
       "Sword of Sin"
     ],
-    "notes": "Try to keep Boss Green Arrow's power lower to reduce incurring higher damage from his Berserk ability. Use abilities that power steal (Raven's Sp1) or artifacts that power steal (Sword of Salvation)."
+    "notes": "Try to keep Sub-Boss Green Arrow's power lower to reduce incurring higher damage from his Berserk ability. Use abilities that power steal (Raven's Sp1) or artifacts that power steal (Sword of Salvation)."
   },
   {
     "name": "RED HOOD",

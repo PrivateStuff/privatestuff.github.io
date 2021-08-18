@@ -11,7 +11,7 @@
       "ANY"
     ],
     "artifacts": [
-      "ANY"
+      "Metallo's Power Source"
     ],
     "avoid": [
       "NONE"
@@ -88,7 +88,8 @@
       "ANY"
     ],
     "artifacts": [
-      "Ikon Suit"
+      "Ikon Suit",
+      "Entropy Aegis"
     ],
     "avoid": [
       "NONE"
